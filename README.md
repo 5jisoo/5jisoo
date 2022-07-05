@@ -6,7 +6,7 @@
  
 <!--🔭 I’m currently working on ...-->
 
-<div align=center><h3>🚀 I'm Currently Learning ... </h3></div>
+<div align=center><h3>🚀 I'm currently learning ... </h3></div>
 <div align="center">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/>
