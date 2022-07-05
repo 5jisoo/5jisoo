@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![5jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5jisoo&show_icons=true&theme=radical)
+
+
 <!--
 **5jisoo/5jisoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
