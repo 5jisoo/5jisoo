@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ogisoo)](https://solved.ac/ogisoo)
+-->
 
 ![5jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5jisoo&show_icons=true&theme=buefy)
 
