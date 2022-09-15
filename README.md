@@ -5,6 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5jisoo&layout=compact)](https://github.com/5jisoo/github-readme-stats)
  
 <!--🔭 I’m currently working on ...-->
+
+
+<h3>✍️ I'm recording what I learned --> <a href="https://5ji-record.tistory.com/">My Tistory</a> </h3> 
+
+
 <br>
 <div align=left><h3>🚀 I'm currently learning ... </h3></div>
 
