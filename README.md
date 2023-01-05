@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=5jiCoding&animation=fadeIn&fontSize=80&animation=fadeIn&fontAlignY=38&desc=By%20Jisu%20Oh&descAlignY=60&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=5jiCoding&animation=fadeIn&fontSize=80&animation=fadeIn&fontAlignY=38&desc=By%20Jisoo%20Oh&descAlignY=60&descAlign=70)
 
 <!--### Hi there 👋-->
 <!--🔭 I’m currently working on ...-->
