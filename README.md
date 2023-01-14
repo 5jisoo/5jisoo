@@ -10,10 +10,11 @@
 <div align=left><h3>🚀 I'm currently learning ... </h3></div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/python Algorithm-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/algorithm-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <br>
 </div>
 
