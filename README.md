@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-#### Hi there, I'm Lucy (Jisoo)👋
+### Hi there, I'm Lucy (Jisoo)👋
 
 <br>
 
