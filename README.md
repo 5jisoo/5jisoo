@@ -6,7 +6,9 @@
 
 <br>
 
-🚀 LEARNING  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="22"> <img src="https://img.shields.io/badge/algorithm-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="22"> <br>
+🚀 LEARNING  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="22"> 
+  <img src="https://img.shields.io/badge/algorithm-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"> 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <br>
 ✍️ BLOG [5jiCoding](https://5ji-record.tistory.com/) <br>
 📫 E-MAIL [56earls@gmail.com](mailto:56earls@gmail.com) <br>
 
