@@ -1,21 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-
-<div align = "center">
 
 ### Hi there, I'm Lucy (Jisoo)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-<br>
+#### Interest
+- Spring Boot
+- Python Algorithm
+- AWS
+- AI, ML, DL
 
-🚀 LEARNING  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="22"> 
-  <img src="https://img.shields.io/badge/algorithm-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22"> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <br>
-✍️ BLOG [5jiCoding](https://5ji-record.tistory.com/) <br>
+#### Contact
 📫 E-MAIL [56earls@gmail.com](mailto:56earls@gmail.com) <br>
 
-<!-- [![earls](http://mazassumnida.wtf/api/v2/generate_badge?boj=earls)](https://solved.ac/earls) -->
+#### Experience
+> 2023
+
+[APPS](https://github.com/APPS-sookmyung) 10th Backend Leader (2023.3 ~ ) <br>
+UMC 4th Server Part Member (2023.4 ~ )
+
+> 2022
+
+[APPS](https://github.com/APPS-sookmyung) 9th Member (2022.3 ~ 2022.12) <br>
+FORZA 26th Mentor (2022.3 ~ 2022.12)
+
+
 [![earls](http://mazassumnida.wtf/api/mini/generate_badge?boj=earls)](https://solved.ac/earls)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5jisoo&count_bg=%233DC8A4&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
