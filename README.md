@@ -25,4 +25,4 @@ FORZA 26th Mentor (2022.3 ~ 2022.12)
 
 #### MORE
 📬 E-MAIL [56earls@gmail.com](mailto:56earls@gmail.com) <br>
-📃 About-Me [Lucy Notion](https://lucy27.notion.site/266580eb80b840e88399658ed79957f7)
+📃 About-Me [RESUME](https://lucy27.notion.site/266580eb80b840e88399658ed79957f7)
