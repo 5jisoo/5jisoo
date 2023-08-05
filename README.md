@@ -25,5 +25,5 @@ FORZA 26th Mentor (2022.3 ~ 2022.12)
 #### MORE
 📬 E-MAIL [56earls@gmail.com](mailto:56earls@gmail.com) <br>
 🔭 [linkedin](https://www.linkedin.com/in/jisoo-oh-34197125b/) <br>
-📃 [RESUME](https://lucy-oh.super.site/) <br>
+📃 ABOUT-ME [lucy-oh.super.site](https://lucy-oh.super.site/) <br>
 💻 Blog [Tistory](https://5ji-record.tistory.com/)
