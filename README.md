@@ -7,6 +7,12 @@
 - Python Algorithm
 - Cloud
 
+#### Project
+| Duration         |        | Role              | More                                      |
+|------------------|--------|-------------------|---------------------------------------------|
+| March, 2023 → ~  | 남이 채워주는 나의 피드 SNS 서비스, POCHAK | backend developer | [Github Wiki](https://github.com/APPS-sookmyung/2023-POCHAK-server/wiki), [Github Repository](https://github.com/APPS-sookmyung/2023-POCHAK-server), [Detail](https://lucy-oh.super.site/%EC%A3%BC%EC%9A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%82%A8%EC%9D%B4-%EC%B1%84%EC%9B%8C%EC%A3%BC%EB%8A%94-%EB%82%98%EC%9D%98-%ED%94%84%EB%A1%9C%ED%95%84-sns-pochak) |
+| July, 2023 → ~   | 전시회 조회 서비스, PLACE | backend developer | [Github Repository](https://github.com/PLACE-4th-UMC/PLACE-server), [Detail](https://lucy-oh.super.site/%EC%A3%BC%EC%9A%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%A0%84%EC%8B%9C%ED%9A%8C-%EC%A1%B0%ED%9A%8C-%EC%84%9C%EB%B9%84%EC%8A%A4-place) |
+
 #### Experience
 > 2023
 
