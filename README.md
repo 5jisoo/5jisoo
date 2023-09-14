@@ -18,12 +18,13 @@
 > 2023
 
 [APPS](https://github.com/APPS-sookmyung) 10th Backend Leader (2023.3 ~ ) <br>
-UMC 4th Server Part Member (2023.4 ~ )
+UMC 4th Server Part Member (2023.3 ~ 2023.8) <br>
+UMC 5th Server Part Member (2023.9 ~ )
 
 > 2022
 
 [APPS](https://github.com/APPS-sookmyung) 9th Member (2022.3 ~ 2022.12) <br>
-FORZA 26th Mentor (2022.3 ~ 2022.12)
+FORZA 26th C language Mentor (2022.3 ~ 2022.12)
 
 
 [![earls](http://mazassumnida.wtf/api/mini/generate_badge?boj=earls)](https://solved.ac/earls)
