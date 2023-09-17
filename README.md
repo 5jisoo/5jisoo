@@ -18,8 +18,7 @@
 > 2023
 
 [APPS](https://github.com/APPS-sookmyung) 10th Backend Leader (2023.3 ~ ) <br>
-UMC 4th Server Part Member (2023.3 ~ 2023.8) <br>
-UMC 5th Server Part Member (2023.9 ~ )
+UMC 4th Server Part Member (2023.3 ~ 2023.8) 
 
 > 2022
 
