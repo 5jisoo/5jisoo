@@ -18,11 +18,13 @@
 > 2023
 
 [APPS](https://github.com/APPS-sookmyung) 10th Backend Leader (2023.3 ~ ) <br>
-UMC 4th Server Part Member (2023.3 ~ 2023.8) 
+[UMC](https://github.com/UMC-SMWU) 4th Server Part Member (2023.3 ~ 2023.8) <br>
+UMC 5th Server Part Member (2023.9 ~ ) <br>
+2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Core Member (2023.10 ~ ) <br>
 
 > 2022
 
-[APPS](https://github.com/APPS-sookmyung) 9th Member (2022.3 ~ 2022.12) <br>
+APPS 9th Member (2022.3 ~ 2022.12) <br>
 FORZA 26th C language Mentor (2022.3 ~ 2022.12)
 
 
