@@ -16,15 +16,23 @@
 ### Experience
 > 2023
 
-[APPS](https://github.com/APPS-sookmyung) 10th Backend Leader `(2023.3 ~ )` <br>
-[UMC](https://github.com/UMC-SMWU) 4th Server Part Member `(2023.3 ~ 2023.8)` <br>
-UMC 5th Server Part Member `(2023.9 ~ )` <br>
-2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Core Member `(2023.10 ~ )` <br>
+[APPS](https://github.com/APPS-sookmyung) 10th Backend Leader `(2023.3 - )` <br>
+[UMC](https://github.com/UMC-SMWU) 4th Server Part Member `(2023.3 - 2023.8)` <br>
+UMC 5th Server Part Member `(2023.9 - )` <br>
+2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Core Member `(2023.10 - )`
+- Participated in Barrier-Free App Development Contest `(2023.3 - )`
+- Participated in 2023 SW Univ Joint Hackathon (2023 SW중심대학 공동 해커톤) `(2023.6.28 - 30)`
+- Participated in SMWU SWUniv 'SWING Education & Hackathon with LONDON' `(2023.7.10 - 14)`
+- Participated in SMWU AWS AI Hackathon `(2023.9.22 - 23)`
+- Participated in 2nd Shinhan Financial Group BigData Hackathon `(2023.10.4 - 8)`
+- Participated in 3rd Uni-DTHON `(2023.11.11 - 12)`
 
 > 2022
 
-APPS 9th Member `(2022.3 ~ 2022.12)` <br>
-FORZA 26th C language Mentor `(2022.3 ~ 2022.12)`
+APPS 9th Member `(2022.3 - 2022.12)` <br>
+FORZA 26th C language Mentor `(2022.3 - 2022.12)`
+- Participated in 2nd SMSWH: Sookmyung Software Hackathon `(2022.8.27 - 28)`
+- Participated in Sookmyung & Kookmin Joint Hackathon 'COKOTHON' `(2022.12.28 - 29)`
 
 ### AWARD
 The 2nd Shinhan Financial Group BigData Hackathon : Shinhan Securities Division - Excellence Award. `(2023.10.12)` <br>
