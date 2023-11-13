@@ -20,11 +20,11 @@
 [UMC](https://github.com/UMC-SMWU) 4th Server Part Member `(2023.3 - 2023.8)` <br>
 UMC 5th Server Part Member `(2023.9 - )` <br>
 2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Core Member `(2023.10 - )`
-- Participated in Barrier-Free App Development Contest `(2023.3 - )`
-- Participated in 2023 SW Univ Joint Hackathon (2023 SW중심대학 공동 해커톤) `(2023.6.28 - 30)`
-- Participated in SMWU SWUniv 'SWING Education & Hackathon with LONDON' `(2023.7.10 - 14)`
-- Participated in SMWU AWS AI Hackathon `(2023.9.22 - 23)`
-- Participated in 2nd Shinhan Financial Group BigData Hackathon `(2023.10.4 - 8)`
+- Participated in Barrier-Free App Development Contest `(2023.3 - )` [Review](https://5ji-record.tistory.com/186)
+- Participated in 2023 SW Univ Joint Hackathon (2023 SW중심대학 공동 해커톤) `(2023.6.28 - 30)` [Review](https://5ji-record.tistory.com/184)
+- Participated in SMWU SWUniv 'SWING Education & Hackathon with LONDON' `(2023.7.10 - 14)` [Review](https://5ji-record.tistory.com/185) 
+- Participated in SMWU AWS AI Hackathon `(2023.9.22 - 23)` [Review](https://5ji-record.tistory.com/190) 
+- Participated in 2nd Shinhan Financial Group BigData Hackathon `(2023.10.4 - 8)` [Review](https://5ji-record.tistory.com/191)
 - Participated in 3rd Uni-DTHON `(2023.11.11 - 12)`
 
 > 2022
