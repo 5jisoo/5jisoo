@@ -24,7 +24,7 @@
 - Participated in SMWU SWUniv 'SWING Education & Hackathon with LONDON' `(2023.7.10 - 14)` [Review](https://5ji-record.tistory.com/185) 
 - Participated in SMWU AWS AI Hackathon `(2023.9.22 - 23)` [Review](https://5ji-record.tistory.com/190) 
 - Participated in 2nd Shinhan Financial Group BigData Hackathon `(2023.10.4 - 8)` [Review](https://5ji-record.tistory.com/191)
-- Participated in 3rd Uni-DTHON `(2023.11.11 - 12)`
+- Participated in 3rd Uni-DTHON `(2023.11.11 - 12)` [Review](https://5ji-record.tistory.com/192)
 
 > 2022
 
