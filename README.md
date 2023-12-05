@@ -16,9 +16,10 @@
 ### Experience
 > 2023
 
-[APPS](https://github.com/APPS-sookmyung) 10th Backend Leader `(2023.3 - )` <br>
+[APPS](https://github.com/APPS-sookmyung) 10th Backend Leader `(2023.3 - 2023.12)` <br>
 [UMC](https://github.com/UMC-SMWU) 4th Server Part Member `(2023.3 - 2023.8)` <br>
-2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Spring part Core Member `(2023.10 - )`
+2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Spring part Core Member `(2023.10 - )` <br>
+[Microsoft Lean Student Ambassador](https://mvp.microsoft.com/ko-KR/studentambassadors/profile/6177ea75-f3c5-4fb5-9466-c82c3c761c52) `(2023.11 - )`
 - Participated in Barrier-Free App Development Contest `(2023.3 - )` [Review](https://5ji-record.tistory.com/186)
 - Participated in 2023 SW Univ Joint Hackathon (2023 SW중심대학 공동 해커톤) `(2023.6.28 - 30)` [Review](https://5ji-record.tistory.com/184)
 - Participated in SMWU SWUniv 'SWING Education & Hackathon with LONDON' `(2023.7.10 - 14)` [Review](https://5ji-record.tistory.com/185) 
