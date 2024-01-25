@@ -34,7 +34,7 @@ Sookmyung & Kookmin Joint Hackathon 'COKOTHON' - Encouragement Award. `(2022.12.
 [![earls](http://mazassumnida.wtf/api/mini/generate_badge?boj=earls)](https://solved.ac/earls)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5jisoo&count_bg=%233DC8A4&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-📃 Resume [lucy-oh.super.site](https://lucy-oh.super.site/) <br>
+📃 [RESUME](https://drive.google.com/file/d/1HneiN8JgH97LkqMhPM7tdfHPR2KM7Oy4/view?usp=drive_link) <br>
 📬 E-MAIL [56earls@gmail.com](mailto:56earls@gmail.com) <br>
 🔭 [linkedin](https://www.linkedin.com/in/hihello-lucy/) <br>
 💻 Blog [Tistory](https://5ji-record.tistory.com/)
