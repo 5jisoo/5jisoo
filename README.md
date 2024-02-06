@@ -10,8 +10,8 @@
 ### Project
 | Duration                  |        | Role              | More                                      |
 |---------------------------|--------|-------------------|---------------------------------------------|
-| 2023.3-  | 당신의 순간, 포착 | Back-End Developer | [Github Wiki](https://github.com/APPS-sookmyung/2023-POCHAK-server/wiki), [Github Repository](https://github.com/APPS-sookmyung/2023-POCHAK-server) |
-| 2023.9-  | 희귀·난치성 질환자들을 위한 익명 커뮤니티, UniBond | Back-End Developer | [Github Repository](https://github.com/UniBond-jijijin/UniBond-server) |
+| 2023.3-  | 당신의 순간, 포착 | Back-End Developer | [WIKI](https://github.com/APPS-sookmyung/2023-POCHAK-server/wiki) |
+| 2023.9-  | 희귀·난치성 질환자들을 위한 익명 커뮤니티, UniBond | Back-End Developer | [Github](https://github.com/UniBond-jijijin/UniBond-server) |
 
 ### Experience
 > 2023
