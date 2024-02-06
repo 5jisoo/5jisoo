@@ -8,10 +8,10 @@
 - Cloud Computing
 
 ### Project
-| Duration                  |        | Role              | More                                      |
-|---------------------------|--------|-------------------|---------------------------------------------|
-| 2023.3-  | 당신의 순간, 포착 | Back-End Developer | [<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/UniBond-jijijin/UniBond-server) |
-| 2023.9-  | <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> 희귀·난치성 질환자들을 위한 익명 커뮤니티, UniBond | Back-End Developer | [<img src="https://img.shields.io/badge/GooglePlay-4285F4?style=for-the-badge&logo=GOOGLEPLAY&logoColor=white">](https://play.google.com/store/apps/details?id=com.unibond.jijijin&hl=ko-KR)  [<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/UniBond-jijijin/UniBond-server) |
+| Name            | Role              | More                                      |
+|-----------------|-------------------|---------------------------------------------|
+| 당신의 순간, 포착 | Back-End Developer | [<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/UniBond-jijijin/UniBond-server) |
+| <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> 희귀·난치성 질환자의 익명 커뮤니티, UniBond | Back-End Developer | [![play store badge](http://img.shields.io/badge/Play%20Store-4285F4?style=for-the-badge&logo=google-play&link=https://play.google.com/store/apps/details?id=com.unibond.jijijin)](https://play.google.com/store/apps/details?id=com.unibond.jijijin)  [<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/UniBond-jijijin/UniBond-server) |
 
 ### Experience
 
