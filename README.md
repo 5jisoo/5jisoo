@@ -8,10 +8,10 @@
 - Cloud Computing
 
 ### Project
-| Name            | Role              | More                                      |
-|-----------------|-------------------|---------------------------------------------|
-| 당신의 순간, 포착 | Back-End Developer | [<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/UniBond-jijijin/UniBond-server) |
-| <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> 희귀·난치성 질환자의 익명 커뮤니티, UniBond | Back-End Developer | [![play store badge](http://img.shields.io/badge/Play%20Store-4285F4?style=for-the-badge&logo=google-play&link=https://play.google.com/store/apps/details?id=com.unibond.jijijin)](https://play.google.com/store/apps/details?id=com.unibond.jijijin)  [<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">](https://github.com/UniBond-jijijin/UniBond-server) |
+| Duration   | Name            | Role              | More                                      |
+|------------|-----------------|-------------------|---------------------------------------------|
+| 2023.3 -   | [<img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/ed632e34-eb9d-47ae-990d-79f58b1e5669"/> 당신의 순간, 포착!](https://github.com/APPS-sookmyung/2023-POCHAK-server) | Back-End Developer | [![play store badge](http://img.shields.io/badge/Github%20WIKI-181717?style=flat&logo=github)](https://github.com/APPS-sookmyung/2023-POCHAK-server/wiki) |
+| 2023.9 -   | [<img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> UniBond](https://github.com/UniBond-jijijin/UniBond-server) | Back-End Developer | [![play store badge](http://img.shields.io/badge/Play%20Store-4285F4?style=flat&logo=google-play&link=https://play.google.com/store/apps/details?id=com.unibond.jijijin)](https://play.google.com/store/apps/details?id=com.unibond.jijijin) |
 
 ### Experience
 
