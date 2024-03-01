@@ -30,9 +30,12 @@ APPS 9th Member `(2022.3 - 2022.12)` <br>
 FORZA 26th C language Mentor `(2022.3 - 2022.12)`
 
 ### AWARD
-The 2nd Shinhan Financial Group BigData Hackathon : Shinhan Securities Division - Excellence Award. `(2023.10.12)` <br>
+2023 Sookmyung X AWS Winter Camp - First Prize. `(2024.02)` <br>
+2023 [Barrier-Free App Development Contest](https://www.autoeverapp.kr/) - Final selection of production support team. `(2023.09-2024.02)` <br>
+The 2nd [Shinhan Financial Group BigData Hackathon](https://sites.google.com/view/shinbighae2023?usp=sharing) : Shinhan Securities Division - Excellence Award. `(2023.10.12)` <br>
 SMWU SWUniv 'SWING Education & Hackathon with LONDON' - Encouragement Award. `(2023.07.14)` <br>
 Sookmyung & Kookmin Joint Hackathon 'COKOTHON' - Encouragement Award. `(2022.12.29)` <br>
+
 
 [![earls](http://mazassumnida.wtf/api/mini/generate_badge?boj=earls)](https://solved.ac/earls)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5jisoo&count_bg=%233DC8A4&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
