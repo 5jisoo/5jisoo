@@ -13,6 +13,7 @@
 | 2023.3 -   | <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/ed632e34-eb9d-47ae-990d-79f58b1e5669"/> [당신의 순간, 포착!](https://github.com/APPS-sookmyung/2023-POCHAK-server) | Back-End Developer | [![play store badge](http://img.shields.io/badge/Github%20WIKI-181717?style=flat&logo=github)](https://github.com/APPS-sookmyung/2023-POCHAK-server/wiki) |
 | 2023.9 - 2024.2 | <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> [청소년 희귀·난치성 질환자들을 위한 공간, UniBond](https://github.com/UniBond-jijijin/UniBond-server) | Back-End Developer | [![play store badge](http://img.shields.io/badge/Google%20Play-4285F4?style=flat&logo=google-play&link=https://play.google.com/store/apps/details?id=com.unibond.jijijin)](https://play.google.com/store/apps/details?id=com.unibond.jijijin) |
 | 2024.2 | <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/4ad1dbf0-4bec-461f-b1d1-6e9687ea87b2"/> [나 자신을 되찾는 여정, re:Mine](https://github.com/re-Mine/reMine-Server) | Back-End Developer |   |
+| 2023.12 - 2024.2 | <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/6bcbbf86-b326-447c-9c26-e3d5df2c4662"/> [사내 이슈 관리 서비스, IssueTree](https://github.com/White-Long-tailed-Tit/IssueTree-Spring) | Back-End Developer |   |
 
 
 ### Experience
