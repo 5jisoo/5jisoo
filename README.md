@@ -21,7 +21,7 @@
 
 [APPS](https://github.com/APPS-sookmyung) 10th Backend Leader `(2023.3 - 2023.12)` <br>
 [UMC](https://github.com/UMC-SMWU) 4, 5th Server Part Member `(2023.3 - 2024.2)` <br>
-2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Spring part Core Member `(2023.10 - )` <br>
+2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Spring part Core Member `(2023.10 - 2024.5 )` <br>
 [Microsoft Lean Student Ambassador](https://mvp.microsoft.com/ko-KR/studentambassadors/profile/6177ea75-f3c5-4fb5-9466-c82c3c761c52) `(2023.11 - )`
 
 > 2022
