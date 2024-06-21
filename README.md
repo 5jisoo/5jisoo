@@ -17,24 +17,31 @@
 
 ### Experience
 
+> 2024
+
+[Microsoft Lean Student Ambassador](https://mvp.microsoft.com/ko-KR/studentambassadors/profile/6177ea75-f3c5-4fb5-9466-c82c3c761c52) Beta `(2023.11 - )` <br>
+2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Spring part Core Member `(2023.10 - 2024.5 )` <br>
+
 > 2023
 
 [APPS](https://github.com/APPS-sookmyung) 10th Backend Leader `(2023.3 - 2023.12)` <br>
-[UMC](https://github.com/UMC-SMWU) 4, 5th Server Part Member `(2023.3 - 2024.2)` <br>
-2023-24 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Spring part Core Member `(2023.10 - 2024.5 )` <br>
-[Microsoft Lean Student Ambassador](https://mvp.microsoft.com/ko-KR/studentambassadors/profile/6177ea75-f3c5-4fb5-9466-c82c3c761c52) `(2023.11 - )`
+[UMC](https://github.com/UMC-SMWU) 4, 5th Server Part Member `(2023.3 - 2023.12)` <br>
 
 > 2022
 
 APPS 9th Member `(2022.3 - 2022.12)` <br>
 FORZA 26th C language Mentor `(2022.3 - 2022.12)`
 
-### AWARD
-2023 Sookmyung X AWS Winter Camp - First Prize. `(2024.02)` <br>
-2023 [Barrier-Free App Development Contest](https://www.autoeverapp.kr/) - Final selection of production support team. `(2023.09-2024.02)` <br>
-The 2nd [Shinhan Financial Group BigData Hackathon](https://sites.google.com/view/shinbighae2023?usp=sharing) : Shinhan Securities Division - Excellence Award. `(2023.10.12)` <br>
-SMWU SWUniv 'SWING Education & Hackathon with LONDON' - Encouragement Award. `(2023.07.14)` <br>
-Sookmyung & Kookmin Joint Hackathon 'COKOTHON' - Encouragement Award. `(2022.12.29)` <br>
+### Achievements
+
+| Date               | Organization                                                                                                  |                                                 |
+|--------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024.04 -          | Sookmyung Women's University Entrepreneurship Support Center                                                  | Selection of 3rd Pre-Startup MVP Dev/Prod Support Team |
+| 2024.02.23         | 2023 Sookmyung X AWS Winter Camp                                                                              | First Prize  |
+| 2023.09-2024.02    | 2023 [Barrier-Free App Development Contest](https://www.autoeverapp.kr/)                                      | Final selection of production support team  |
+| 2023.10.12         | [The 2nd Shinhan Financial Group BigData Hackathon](https://sites.google.com/view/shinbighae2023?usp=sharing) | Shinhan Securities Division: Excellence Award   |
+| 2024.02            | SMWU SWUniv 'SWING Education & Hackathon with LONDON'                                                         | Encouragement Award  |
+| 2024.02            | Sookmyung & Kookmin Joint Hackathon 'COKOTHON'                                                                | Encouragement Award  |
 
 
 [![earls](http://mazassumnida.wtf/api/mini/generate_badge?boj=earls)](https://solved.ac/earls)
