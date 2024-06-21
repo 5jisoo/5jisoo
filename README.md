@@ -36,7 +36,7 @@ FORZA 26th C language Mentor `(2022.3 - 2022.12)`
 
 | Date               | Organization                                                                                                  |                                                 |
 |--------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| 2024.04 -          | Sookmyung Women's University Entrepreneurship Support Center                                                  | Selection of 3rd Pre-Startup MVP Dev/Prod Support Team |
+| 2024.04 -          | SMWU Entrepreneurship Support Center                                                  | Selection of 3rd Pre-Startup MVP Dev/Prod support team |
 | 2024.02.23         | 2023 Sookmyung X AWS Winter Camp                                                                              | First Prize  |
 | 2023.09-2024.02    | 2023 [Barrier-Free App Development Contest](https://www.autoeverapp.kr/)                                      | Final selection of production support team  |
 | 2023.10.12         | [The 2nd Shinhan Financial Group BigData Hackathon](https://sites.google.com/view/shinbighae2023?usp=sharing) | Shinhan Securities Division: Excellence Award   |
