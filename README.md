@@ -43,8 +43,8 @@ FORZA 26th C language Mentor `(2022.3 - 2022.12)`
 | 2024.02.23         | 2023 Sookmyung X AWS Winter Camp                                                                              | First Prize  |
 | 2023.09-2024.02    | 2023 [Barrier-Free App Development Contest](https://www.autoeverapp.kr/)                                      | Final selection of production support team  |
 | 2023.10.12         | [The 2nd Shinhan Financial Group BigData Hackathon](https://sites.google.com/view/shinbighae2023?usp=sharing) | Shinhan Securities Division: Excellence Award   |
-| 2024.02            | SMWU SWUniv 'SWING Education & Hackathon with LONDON'                                                         | Encouragement Award  |
-| 2024.02            | Sookmyung & Kookmin Joint Hackathon 'COKOTHON'                                                                | Encouragement Award  |
+| 2023.07            | SMWU SWUniv 'SWING Education & Hackathon with LONDON'                                                         | Encouragement Award  |
+| 2022.12            | Sookmyung & Kookmin Joint Hackathon 'COKOTHON'                                                                | Encouragement Award  |
 
 
 [![earls](http://mazassumnida.wtf/api/mini/generate_badge?boj=earls)](https://solved.ac/earls)
