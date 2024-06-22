@@ -1,6 +1,9 @@
 
 ## Hi there, I'm Lucy (Jisoo)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+[![linkedin](http://img.shields.io/badge/LinkedIn-0e76a8?style=social&logo=linkedin)](https://www.linkedin.com/in/hihello-lucy/)
+[![blog](http://img.shields.io/badge/Tistory-eb531f?style=social&logo=tistory)](https://5ji-record.tistory.com/)
+
 
 ### Interest
 - Spring Boot
