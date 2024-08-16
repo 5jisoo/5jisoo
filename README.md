@@ -36,8 +36,9 @@ Open Source Contribution Academy: Azure OpenAI SDK Proxy `(2024.7 - )` <br>
 
 ### Achievements
 
-| Date               | Organization                                                                                                  |                                                 |
-|--------------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Date               | Organization                                                                                       |                                                 |
+|--------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 2024.08            | The 1st National University Software Achievement Sharing Forum                        | Second Prize |
 | 2024.04 -          | SMWU Entrepreneurship Support Center                                                  | Selection of 3rd Pre-Startup MVP Dev/Prod support team |
 | 2024.02.23         | 2023 Sookmyung X AWS Winter Camp                                                                              | First Prize  |
 | 2023.09-2024.02    | 2023 [Barrier-Free App Development Contest](https://www.autoeverapp.kr/)                                      | Final selection of production support team  |
