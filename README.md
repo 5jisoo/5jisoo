@@ -5,20 +5,69 @@
 [![blog](http://img.shields.io/badge/Tistory-eb531f?style=social&logo=tistory)](https://5ji-record.tistory.com/)
 
 
-### Interest
+### 🔍 Interest
 - Spring Boot
 - Python Algorithm
 - Cloud Computing
 
-### Project
-| Duration   | Name            | Role              |                                             |
-|------------|-----------------|-------------------|---------------------------------------------|
-| 2023.3 -   | <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/ed632e34-eb9d-47ae-990d-79f58b1e5669"/> [당신의 순간, 포착!](https://github.com/SMWU-POCHAK/POCHAK-Server) | Back-End Developer | [![app store badge](http://img.shields.io/badge/App%20Store-4285F4?style=flat&logo=app-store&link=https://apps.apple.com/kr/app/pochak/id6502332418&logoColor=white)](https://apps.apple.com/kr/app/pochak/id6502332418) |
-| 2023.9 - 2024.2 | <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> [청소년 희귀·난치성 질환자들을 위한 공간, UniBond](https://github.com/UniBond-jijijin/UniBond-server) | Back-End Developer | [![play store badge](http://img.shields.io/badge/Google%20Play-4285F4?style=flat&logo=google-play&link=https://play.google.com/store/apps/details?id=com.unibond.jijijin)](https://play.google.com/store/apps/details?id=com.unibond.jijijin) |
-| 2023.12 - 2024.2 | <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/6bcbbf86-b326-447c-9c26-e3d5df2c4662"/> [사내 이슈 관리 서비스, IssueTree](https://github.com/White-Long-tailed-Tit/IssueTree-Spring) | Back-End Developer | [![linkedin badge](http://img.shields.io/badge/LinkedIn%20Update-0e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/posts/hihello-lucy_%EC%A7%80%EB%82%9C-12%EC%9B%94-%EB%A7%90%EB%B6%80%ED%84%B0-2%EC%9B%94%EA%B9%8C%EC%A7%80-%EC%A7%84%ED%96%89%EB%90%9C-%EC%88%99%EB%AA%85%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90-aws-winter-camp%EC%97%90%EC%84%9C-activity-7168994568972042240-HjFj?utm_source=share&utm_medium=member_desktop) |
+### 🛠️ Project
 
+<table>
+  <thead>
+    <tr>
+      <th>Duration</th>
+      <th>Name</th>
+      <th>Role</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> <!-- project -->
+      <td>2023.3 -</td>
+      <td>
+        <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/ed632e34-eb9d-47ae-990d-79f58b1e5669"/> 
+        <a href="https://github.com/SMWU-POCHAK/POCHAK-Server">당신의 순간, 포착!</a>
+      </td>
+      <td>
+        Back-End Developer
+      </td>
+      <td>
+        <a href="https://apps.apple.com/kr/app/pochak/id6502332418">
+          <img src="http://img.shields.io/badge/App%20Store-4285F4?style=flat&amp;logo=app-store&amp;link=https://apps.apple.com/kr/app/pochak/id6502332418&amp;logoColor=white" alt="app store badge">
+        </a>
+      </td>
+    </tr>
+    <tr> <!-- project -->
+      <td>2023.9 - 2024.2</td>
+      <td>
+        <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/c3f6ac1f-c050-4852-82ec-3ceeef8b037c"/> 
+        <a href="https://github.com/UniBond-jijijin/UniBond-server">청소년 희귀·난치성 질환자들을 위한 공간, UniBond</a>
+      </td>
+      <td>PM, Back-End Developer</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.unibond.jijijin">
+          <img src="http://img.shields.io/badge/Google%20Play-4285F4?style=flat&amp;logo=google-play&amp;link=https://play.google.com/store/apps/details?id=com.unibond.jijijin" alt="play store badge">
+        </a>
+      </td>
+    </tr>
+    <tr> <!-- project -->
+      <td>2023.12 - 2024.2</td>
+      <td>
+        <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/6bcbbf86-b326-447c-9c26-e3d5df2c4662"/> 
+        <a href="https://github.com/White-Long-tailed-Tit/IssueTree-Spring">사내 이슈 관리 서비스, IssueTree
+        </a>
+      </td>
+      <td>PM Back-End Developer</td>
+      <td>
+        <a href="https://www.linkedin.com/posts/hihello-lucy_%EC%A7%80%EB%82%9C-12%EC%9B%94-%EB%A7%90%EB%B6%80%ED%84%B0-2%EC%9B%94%EA%B9%8C%EC%A7%80-%EC%A7%84%ED%96%89%EB%90%9C-%EC%88%99%EB%AA%85%EC%97%AC%EC%9E%90%EB%8C%80%ED%95%99%EA%B5%90-aws-winter-camp%EC%97%90%EC%84%9C-activity-7168994568972042240-HjFj?utm_source=share&amp;utm_medium=member_desktop">
+          <img src="http://img.shields.io/badge/LinkedIn%20Update-0e76a8?style=flat&amp;logo=linkedin" alt="linkedin badge">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Experience
+### 💡 Experience
 
 > 2024
 
@@ -33,18 +82,22 @@ Open Source Contribution Academy: Azure OpenAI SDK Proxy `(2024.7 - )` <br>
 
 [APPS](https://github.com/APPS-sookmyung) 10th Backend Leader `(2023.3 - 2023.12)` <br>
 
+### 🔥 Contribution
 
-### Achievements
+- https://github.com/aliencube/azure-openai-sdk-proxy/pull/249
+- https://github.com/aliencube/azure-openai-sdk-proxy/pull/244
 
-| Date               | Organization                                                                                       |                                                 |
-|--------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| 2024.08            | The 1st National University Software Achievement Sharing Forum                        | Second Prize |
-| 2024.04 -          | SMWU Entrepreneurship Support Center                                                  | Selection of 3rd Pre-Startup MVP Dev/Prod support team |
-| 2024.02.23         | 2023 Sookmyung X AWS Winter Camp                                                                              | First Prize  |
-| 2023.09-2024.02    | 2023 [Barrier-Free App Development Contest](https://www.autoeverapp.kr/)                                      | Final selection of production support team  |
-| 2023.10.12         | [The 2nd Shinhan Financial Group BigData Hackathon](https://sites.google.com/view/shinbighae2023?usp=sharing) | Shinhan Securities Division: Excellence Award   |
-| 2023.07            | SMWU SWUniv 'SWING Education & Hackathon with LONDON'                                                         | Encouragement Award  |
-| 2022.12            | Sookmyung & Kookmin Joint Hackathon 'COKOTHON'                                                                | Encouragement Award  |
+### 🏆 Achievements
+
+| Date         | Organization                                                                                                  |                                                 |
+|-----------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| `2024.08` | The 1st National University Software Achievement Sharing Forum                                                | 2nd Prize |
+| `2024.04` | SMWU Entrepreneurship Support Center                                                                          | Final selection of MVP Dev/Prod support team |
+| `2024.02` | 2023 Sookmyung X AWS Winter Camp                                                                              | 1st Prize  |
+| `2023.09` | 2023 [Barrier-Free App Development Contest](https://www.autoeverapp.kr/)                                      | Final selection of production support team  |
+| `2023.10` | [The 2nd Shinhan Financial Group BigData Hackathon](https://sites.google.com/view/shinbighae2023?usp=sharing) | Shinhan Securities Division: 2nd Prize   |
+| `2023.07` | SMWU SWUniv 'SWING Education & Hackathon with LONDON'                                                         | 4th Prize  |
+| `2022.12` | Sookmyung & Kookmin Joint Hackathon 'COKOTHON'                                                                | 4th Prize  |
 
 
 [![earls](http://mazassumnida.wtf/api/mini/generate_badge?boj=earls)](https://solved.ac/earls)
