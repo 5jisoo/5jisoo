@@ -86,6 +86,7 @@ Open Source Contribution Academy: Azure OpenAI SDK Proxy `(2024.7 - )` <br>
 
 - https://github.com/aliencube/azure-openai-sdk-proxy/pull/249
 - https://github.com/aliencube/azure-openai-sdk-proxy/pull/244
+- https://github.com/aliencube/azure-openai-sdk-proxy/pull/314
 
 ### 🏆 Achievements
 
