@@ -1,10 +1,6 @@
 
 ## Hi there, I'm Lucy (Jisoo)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![linkedin](http://img.shields.io/badge/LinkedIn-0e76a8?style=social&logo=linkedin)](https://www.linkedin.com/in/hihello-lucy/)
-[![blog](http://img.shields.io/badge/Tistory-eb531f?style=social&logo=tistory)](https://5ji-record.tistory.com/)
-
-
 ### 🔍 Interest
 - Spring Boot
 - Python Algorithm
@@ -73,7 +69,7 @@
 
 [Microsoft Lean Student Ambassador](https://mvp.microsoft.com/ko-KR/studentambassadors/profile/6177ea75-f3c5-4fb5-9466-c82c3c761c52) Beta `(2023.11 - )`
   - [알쓸신기 with MLSA] [Azure App Service를 활용하여 웹 앱 배포하기](https://github.com/5jisoo/deploy-to-azure-app-service) `(2024.7.22)`
-  - [Power Automate로 업무 자동화하기](https://5ji-record.tistory.com/197) `(2024.4.4)`
+  - [Power Automate로 업무 자동화하기](https://5jisoo.github.io/posts/power-automate-handson/) `(2024.4.4)`
 
 Open Source Contribution Academy: Azure OpenAI SDK Proxy `(2024.7 - )` <br>
 [GDSC](https://github.com/dsc-sookmyung) Sookmyung Spring part Core Member `(2023.10 - 2024.5 )` <br>
