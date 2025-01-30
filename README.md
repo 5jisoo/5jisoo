@@ -22,12 +22,14 @@
     <tr> <!-- project -->
       <td>2024.12 - </td>
       <td>
+        <img width="30" src="https://github.com/user-attachments/assets/0d87bf76-52dd-4a0e-89c3-cb74bd7a5acc">
         <a href="https://github.com/Coastee/COASTER-Server">COASTER</a>
       </td>
       <td>
         PM, Back-End Developer
       </td>
       <td>
+        <a href="https://www.coasterchat.com"> 👉 coasterchat.com </a>
       </td>
     </tr>
     <tr> <!-- project -->
