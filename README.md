@@ -20,7 +20,7 @@
   </thead>
   <tbody>
     <tr> <!-- project -->
-      <td>2024.12 - </td>
+      <td>2024.12 - 2025.5</td>
       <td>
         <img width="30" src="https://github.com/user-attachments/assets/0d87bf76-52dd-4a0e-89c3-cb74bd7a5acc">
         <a href="https://github.com/Coastee/COASTER-Server">COASTER</a>
@@ -29,11 +29,10 @@
         PM, Back-End Developer
       </td>
       <td>
-        <a href="https://www.coasterchat.com"> 👉 coasterchat.com </a>
       </td>
     </tr>
     <tr> <!-- project -->
-      <td>2023.3 -</td>
+      <td>2023.3 - 2025.8</td>
       <td>
         <img width="30" src="https://github.com/5jisoo/5jisoo/assets/96935231/ed632e34-eb9d-47ae-990d-79f58b1e5669"/> 
         <a href="https://github.com/SMWU-POCHAK/POCHAK-Server">당신의 순간, 포착!</a>
@@ -115,4 +114,3 @@ Open Source Contribution Academy: Azure OpenAI SDK Proxy `(2024.7 - 2024.11)` <b
 
 
 [![earls](http://mazassumnida.wtf/api/mini/generate_badge?boj=earls)](https://solved.ac/earls)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5jisoo&count_bg=%233DC8A4&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
